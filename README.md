@@ -19,4 +19,6 @@
   - Deploy a website
   - Cheap or Free Static Website Hosting
 
+[Access the website](https://edinascimento.github.io)
+
 ***I used all the content on the Mozilla website. I created this content, but all credit is given to the Mozilla website.*** 
